@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jeonghoon-lee.github.io/resume",
-  "name": "resume",
+  "homepage": "https://jeonghoon-lee.github.io/cv",
+  "name": "cv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
